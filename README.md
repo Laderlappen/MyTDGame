@@ -9,8 +9,10 @@ TD Collab Game
   - Shooting
 - Enemy
   - Move to destination
+    - to Base
+    - or Hero
   - Take damage
 - Map
-  - Pathing
+  - Validate path
 - Towers
 - Items

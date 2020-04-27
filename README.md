@@ -7,6 +7,8 @@ TD Collab Game
   - Movement
   - Item pickup
   - Shooting
+  - Level up
+    - Abilities
 - Enemy
   - Move to destination
     - to Base
@@ -15,4 +17,10 @@ TD Collab Game
 - Map
   - Validate path
 - Towers
+  - Tower types
+    - Obstructive Towers
 - Items
+  - Item types
+    - health
+    - weapons
+  - Enemy item drops

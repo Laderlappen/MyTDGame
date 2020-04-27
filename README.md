@@ -3,8 +3,8 @@
 TD Collab Game
 
 # TODO
-Player
-Enemy
-Map
-Towers
-Items
+- Player
+- Enemy
+- Map
+- Towers
+- Items

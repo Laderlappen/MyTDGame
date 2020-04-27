@@ -3,5 +3,8 @@
 TD Collab Game
 
 # TODO
-
-EET VIS
+-Player
+-Enemy
+-Map
+-Towers
+-Items

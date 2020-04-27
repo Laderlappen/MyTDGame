@@ -6,6 +6,7 @@ TD Collab Game
 - Player
   - Movement
   - Item pickup
+  - Take damage
   - Shooting
   - Level up
     - Abilities
@@ -18,8 +19,9 @@ TD Collab Game
     - to Base
     - or Hero
   - Take damage
+  - Do damage
 - Map
-  - Validate path
+  - Validate path to destination
 - Towers
   - Level upgrades
   - Tower types

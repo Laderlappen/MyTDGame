@@ -6,6 +6,6 @@ TD Collab Game
 - Player
 - Enemy
 - Map
--- Pathing
+ - Pathing
 - Towers
 - Items

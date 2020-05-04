@@ -1,8 +1,8 @@
 # MyTD
 
-TD Collab Game
+##TD Collab Game
 
-# TODO
+### TODO
 - Player
   - Movement
   - Item pickup

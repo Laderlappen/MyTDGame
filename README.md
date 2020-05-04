@@ -4,6 +4,7 @@
 - Robot Control
   - Let player 1 control one robot.
   - Let player 2 control the other robot.
+  - Stick control work walking the robot around the ring.
 - Collision 
   - Robot hand collision with other robot hands and head.
   - Detect when opponent robot touches other robot head.

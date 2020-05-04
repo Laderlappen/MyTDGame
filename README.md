@@ -14,7 +14,13 @@
   - In round
   - Stop
 - Scoring system
-  - TODO
+  - First with three hits win.
+  - Indicate realtime score somehow.
+- Make things pretty
+  - Sparks
+  - Textures
+  - Lighting
+  - Damage animation
   
 # MyTD
 

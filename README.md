@@ -1,6 +1,6 @@
 # Robot Punch Game
 
-## TODO
+### TODO
 - Robot Control
   - Let player 1 control one robot.
   - Let player 2 control the other robot.
@@ -14,7 +14,7 @@
   - In round
   - Stop
 - Scoring system
-  -TODO
+  - TODO
   
 # MyTD
 

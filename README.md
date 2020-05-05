@@ -2,6 +2,7 @@
 
 ### TODO
 - Robot Control
+  - Set correct spawn points for two players.
   - Let player 1 control one robot.
   - Let player 2 control the other robot.
   - Stick control work walking the robot around the ring.
